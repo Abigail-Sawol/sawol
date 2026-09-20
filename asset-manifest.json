@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sawol/static/css/main.3477a7b2.css",
-    "main.js": "/sawol/static/js/main.459471e1.js",
-    "static/js/453.d130cbed.chunk.js": "/sawol/static/js/453.d130cbed.chunk.js",
-    "static/media/Sāwol - Background 2 Landscape.png": "/sawol/static/media/Sāwol - Background 2 Landscape.58ec100875fa119ba8b9.png",
-    "static/media/Bobby Jones Soft.otf": "/sawol/static/media/Bobby Jones Soft.c48adaa62980dc4e774c.otf",
-    "index.html": "/sawol/index.html",
-    "main.3477a7b2.css.map": "/sawol/static/css/main.3477a7b2.css.map",
-    "main.459471e1.js.map": "/sawol/static/js/main.459471e1.js.map",
-    "453.d130cbed.chunk.js.map": "/sawol/static/js/453.d130cbed.chunk.js.map"
+    "main.css": "/static/css/main.cdebd4c3.css",
+    "main.js": "/static/js/main.ff6ce4d8.js",
+    "static/js/453.d130cbed.chunk.js": "/static/js/453.d130cbed.chunk.js",
+    "static/media/Sāwol - Background 2 Landscape.png": "/static/media/Sāwol - Background 2 Landscape.58ec100875fa119ba8b9.png",
+    "static/media/Bobby Jones Soft.otf": "/static/media/Bobby Jones Soft.c48adaa62980dc4e774c.otf",
+    "index.html": "/index.html",
+    "main.cdebd4c3.css.map": "/static/css/main.cdebd4c3.css.map",
+    "main.ff6ce4d8.js.map": "/static/js/main.ff6ce4d8.js.map",
+    "453.d130cbed.chunk.js.map": "/static/js/453.d130cbed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3477a7b2.css",
-    "static/js/main.459471e1.js"
+    "static/css/main.cdebd4c3.css",
+    "static/js/main.ff6ce4d8.js"
   ]
 }
