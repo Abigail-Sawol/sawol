@@ -10,6 +10,14 @@ function App() {
         <img className="loading-star" src="./assets/Star.png" alt='' />
         <strong>Find us on socials</strong>
       </div>
+      <div className="landing-page-socials-container">
+        <div className="landing-page-social-logo-container">
+          <img src="./assets/Facebook Logo.png" alt="Facebook" onClick={() => window.open('https://www.facebook.com/profile.php?id=61594729580585', '_blank')} />
+        </div>
+        <div className="landing-page-social-logo-container">
+          <img src="./assets/Instagram Logo.png" alt="Instagram" onClick={() => window.open('https://www.instagram.com/sawolsussex', '_blank')} />
+        </div>
+      </div>
     </div>
   );
 }

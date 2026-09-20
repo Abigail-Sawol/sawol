@@ -33,6 +33,33 @@
   text-align: right;
 }
 
+.landing-page-socials-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding-top: 10px;
+}
+
+.landing-page-social-logo-container {
+  height: 40px;
+  width: 40px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.landing-page-social-logo-container > img {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  transition: all;
+}
+
+.landing-page-social-logo-container > img:hover {
+  height: 40px;
+  width: 40px;
+}
+
 @keyframes loading-spinner {
   0% {
     transform: rotate(0);
