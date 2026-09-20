@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.cdebd4c3.css",
-    "main.js": "/static/js/main.ff6ce4d8.js",
+    "main.css": "/static/css/main.a94b8e46.css",
+    "main.js": "/static/js/main.f83027af.js",
     "static/js/453.d130cbed.chunk.js": "/static/js/453.d130cbed.chunk.js",
     "static/media/Sāwol - Background 2 Landscape.png": "/static/media/Sāwol - Background 2 Landscape.58ec100875fa119ba8b9.png",
     "static/media/Bobby Jones Soft.otf": "/static/media/Bobby Jones Soft.c48adaa62980dc4e774c.otf",
     "index.html": "/index.html",
-    "main.cdebd4c3.css.map": "/static/css/main.cdebd4c3.css.map",
-    "main.ff6ce4d8.js.map": "/static/js/main.ff6ce4d8.js.map",
+    "main.a94b8e46.css.map": "/static/css/main.a94b8e46.css.map",
+    "main.f83027af.js.map": "/static/js/main.f83027af.js.map",
     "453.d130cbed.chunk.js.map": "/static/js/453.d130cbed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdebd4c3.css",
-    "static/js/main.ff6ce4d8.js"
+    "static/css/main.a94b8e46.css",
+    "static/js/main.f83027af.js"
   ]
 }
