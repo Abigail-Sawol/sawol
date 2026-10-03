@@ -5,6 +5,12 @@
     align-items: center;
     position: sticky;
     top: 0;
+    background-color: wheat;
+    z-index: 2;
+}
+
+.header-container a {
+    cursor: pointer;
 }
 
 .header-main-text {
@@ -17,44 +23,64 @@
     column-gap: 20px;
 }
 
-.test {
-    height: 200vh;
-}
-
-#about-container {
-    height: 200px;
-    background-color: black;
-}
-
-.main-page-banner {
+.main-page-image-and-marquee {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    padding: 20px 0;
+    background-color: rgb(219, 208, 186);
 }
 
 .placeholder-image {
     border: 1px solid black;
-    height: 600px;
+    height: 500px;
     width: 1200px;
 }
 
-.main-page-scrolling-text-wrapper {
+.main-page-marquee-wrapper {
     width: 100%;
     overflow: hidden;
 
 }
 
-.main-page-scrolling-text-container {
+.main-page-marquee-container {
     white-space: nowrap;
     display: inline-block;
-    animation: text-scroll 25s linear infinite;
+    animation: text-scroll 60s linear infinite;
+    font-size: 40px;
+    padding-top: 20px;
 }
 
-.main-page-scrolling-text-container img {
-    height: 10px;
+.main-page-marquee-container img {
+    height: 30px;
     padding: 0 10px;
 }
+
+#about-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    background-color: wheat;
+    padding: 0 20px;
+}
+
+#contact-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#contact-container img {
+    height: 100px;
+    display: block;
+    justify-self: center;
+    align-self: center;
+}
+
+.contact-form-container {
+    height: 300px;
+}
+
 
 @keyframes text-scroll {
     0% {
